@@ -1,0 +1,19 @@
+{
+    "name": "Genre",
+    "fields": [
+        {
+            "fieldName": "genre",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20181221223130",
+    "entityTableName": "genre",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "applications": "*"
+}

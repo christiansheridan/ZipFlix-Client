@@ -1,0 +1,31 @@
+{
+    "sampleappApp": {
+        "video": {
+            "home": {
+                "title": "Videos",
+                "createLabel": "Crear nuevo Video",
+                "createOrEditLabel": "Crear o editar Video"
+            },
+            "created": "Un nuevo Video ha sido creado con el identificador {{ param }}",
+            "updated": "Un Video ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Video ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Video {{ id }}?"
+            },
+            "detail": {
+                "title": "Video"
+            },
+            "videoName": "Video Name",
+            "url": "Url",
+            "imageURL": "Image URL",
+            "avgRating": "Avg Rating",
+            "comments": "Comments",
+            "tags": "Tags",
+            "ratings": "Ratings",
+            "genres": "Genres",
+            "recommendedVideos": "Recommended Videos",
+            "search": "Search",
+            "searchResult": "Search Result"
+        }
+    }
+}

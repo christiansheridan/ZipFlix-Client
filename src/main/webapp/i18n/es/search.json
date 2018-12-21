@@ -1,0 +1,22 @@
+{
+    "sampleappApp": {
+        "search": {
+            "home": {
+                "title": "Searches",
+                "createLabel": "Crear nuevo Search",
+                "createOrEditLabel": "Crear o editar Search"
+            },
+            "created": "Un nuevo Search ha sido creado con el identificador {{ param }}",
+            "updated": "Un Search ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Search ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Search {{ id }}?"
+            },
+            "detail": {
+                "title": "Search"
+            },
+            "searchQuery": "Search Query",
+            "videos": "Videos"
+        }
+    }
+}
