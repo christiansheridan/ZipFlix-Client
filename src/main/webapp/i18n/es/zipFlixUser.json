@@ -1,0 +1,22 @@
+{
+    "sampleappApp": {
+        "zipFlixUser": {
+            "home": {
+                "title": "Zip Flix Users",
+                "createLabel": "Crear nuevo Zip Flix User",
+                "createOrEditLabel": "Crear o editar Zip Flix User"
+            },
+            "created": "Un nuevo Zip Flix User ha sido creado con el identificador {{ param }}",
+            "updated": "Un Zip Flix User ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Zip Flix User ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Zip Flix User {{ id }}?"
+            },
+            "detail": {
+                "title": "Zip Flix User"
+            },
+            "dateOfBirth": "Date Of Birth",
+            "profiles": "Profiles"
+        }
+    }
+}

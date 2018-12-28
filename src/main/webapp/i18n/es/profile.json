@@ -1,0 +1,25 @@
+{
+    "sampleappApp": {
+        "profile": {
+            "home": {
+                "title": "Profiles",
+                "createLabel": "Crear nuevo Profile",
+                "createOrEditLabel": "Crear o editar Profile"
+            },
+            "created": "Un nuevo Profile ha sido creado con el identificador {{ param }}",
+            "updated": "Un Profile ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Profile ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Profile {{ id }}?"
+            },
+            "detail": {
+                "title": "Profile"
+            },
+            "name": "Name",
+            "dateOfBirth": "Date Of Birth",
+            "imageURL": "Image URL",
+            "interests": "Interests",
+            "zipFlixUser": "Zip Flix User"
+        }
+    }
+}

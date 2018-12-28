@@ -1,0 +1,21 @@
+{
+    "sampleappApp": {
+        "recommendedVideos": {
+            "home": {
+                "title": "Recommended Videos",
+                "createLabel": "Crear nuevo Recommended Videos",
+                "createOrEditLabel": "Crear o editar Recommended Videos"
+            },
+            "created": "Un nuevo Recommended Videos ha sido creado con el identificador {{ param }}",
+            "updated": "Un Recommended Videos ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Recommended Videos ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Recommended Videos {{ id }}?"
+            },
+            "detail": {
+                "title": "Recommended Videos"
+            },
+            "videos": "Videos"
+        }
+    }
+}
